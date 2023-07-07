@@ -23,9 +23,13 @@ cd promotefrontend
 docker build -t promote-frontend .
 ```
 
-## Launch the Docker
-Naviagte to social-media-assistant\
+## Launch the Docker Containers
+### Naviagte to social-media-assistant\
 
+```bash
+cd ..
+```
+### Launch the Docker Containers\
 ```bash
 docker-compose up -d
 ```
