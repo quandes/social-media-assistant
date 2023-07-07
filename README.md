@@ -3,7 +3,7 @@
 ## Build the Docker Files
 
 2) Naviagte to \social-media-assistant\promotebackend
-3) ```bash
+```bash
 docker build -t promote-backend .
 ```
 
