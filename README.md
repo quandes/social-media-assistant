@@ -8,7 +8,7 @@ Navigate to \social-media-assistant\promotebackend
 cd promotebackend
 ```
 
-##Build the Dockerfile
+## Build the Dockerfile
 ```bash
 docker build -t promote-backend .
 ```
@@ -18,7 +18,7 @@ Navigate to social-media-assistant\promotefrontend
 ```bash
 cd promotefrontend
 ```
-##Build the Dockerfile
+## Build the Dockerfile
 ```bash
 docker build -t promote-frontend .
 ```
