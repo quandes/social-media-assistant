@@ -23,7 +23,7 @@ cd promotefrontend
 docker build -t promote-frontend .
 ```
 
-### Launch the Docker
+## Launch the Docker
 Naviagte to social-media-assistant\
 
 ```bash
