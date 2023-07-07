@@ -2,13 +2,13 @@
 
 ## Build the Docker Files
 
-Naviagte to \social-media-assistant\promotebackend
+Navigate to \social-media-assistant\promotebackend
 
 ```bash
 docker build -t promote-backend .
 ```
 
-Naviagte to social-media-assistant\promotefrontend
+Navigate to social-media-assistant\promotefrontend
 ```bash
 docker build -t promote-frontend .
 ```
