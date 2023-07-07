@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "dotenv-webpack": "^8.0.1",
+        "fs": "^0.0.1-security"
+    }
+}

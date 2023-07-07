@@ -1,0 +1,15 @@
+services:
+  promote-backend:
+    image: promote-backend
+    ports:
+      - 12201:3011
+  
+  promote-frontend:
+    image: promote-frontend
+    depends_on:
+      - promote-backend
+    restart: always
+    ports:
+      - 12202:8080
+    environment:
+      - VUE_APP_BASE_URL=http://localhost:12201
