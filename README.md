@@ -15,4 +15,7 @@ docker build -t promote-frontend .
 
 ## Launch the Docker
 6) Naviagte to social-media-assistant\
-7) Run docker-compose up -d
+
+7) ```bash
+docker-compose up -d
+```
