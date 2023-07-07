@@ -34,7 +34,7 @@ cd ..
 docker-compose up -d
 ```
 ## Usage
-The Application is now avaiable under: http://localhost:12202/
+application is accessible under: http://localhost:12202/
 
 ## License
 
