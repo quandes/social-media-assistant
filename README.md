@@ -3,12 +3,15 @@
 ## Build the Docker Files
 
 2) Naviagte to \social-media-assistant\promotebackend
+
 ```bash
 docker build -t promote-backend .
 ```
 
 5) Naviagte to social-media-assistant\promotefrontend
-6) Run  docker build -t promote-frontend .
+```bash
+docker build -t promote-frontend .
+```
 
 ## Launch the Docker
 6) Naviagte to social-media-assistant\
