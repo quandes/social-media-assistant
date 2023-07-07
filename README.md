@@ -19,3 +19,7 @@ Naviagte to social-media-assistant\
 ```bash
 docker-compose up -d
 ```
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
