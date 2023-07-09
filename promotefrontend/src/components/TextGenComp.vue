@@ -123,7 +123,6 @@ export default {
    
     onModalConfirmed() {
       this.keyValid = false;
-      console.log('pfotze')
     },
     showKeyModal() {
       this.keyValid = true
