@@ -32,7 +32,7 @@ const authMiddleware = function (req, res, next) {
     res.sendStatus(401);
     return;
   }
-  req.userId = jwt.decode(req.headers["authentication"]).userId;
+  req.userId = jwt.decode(req.headers["authentication"]).userId ?? 0 ;
   next();
 };
 
