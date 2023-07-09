@@ -2,6 +2,10 @@ FROM node:18 AS promote-backend
 
 RUN apt-get update
 
+RUN apt-get install sqlite3
+
+RUN apt-get install build-essential
+
 RUN apt-get install sudo -y
 
 WORKDIR /home/node/app

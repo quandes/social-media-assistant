@@ -12,4 +12,4 @@ services:
     ports:
       - 12202:8080
     environment:
-      - VUE_APP_BASE_URL=http://localhost:12201
+      - VUE_APP_BASE_URL=https://api.social-media-assistant.de
