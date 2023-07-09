@@ -12,12 +12,10 @@ model User {
   email     String    @unique
   password  String
   createdAt DateTime  @default(now())
-  history   History[]
 }
 
 model History {
   id        Int      @id @default(autoincrement())
-  user      User     @relation(fields: [userId], references: [id])
   userId    Int
   prompt    String
   response  String
