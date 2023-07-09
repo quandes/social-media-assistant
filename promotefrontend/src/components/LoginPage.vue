@@ -9,7 +9,8 @@
     <h3>Der Quandes Social Media Assistent ist ein open Source Tool zur generierung von social media Content</h3>
     <p>Wir nutzen Open Ais gpt-3-5-turbo</p>
     <p>Bei der Nutzung unserers Tools folgen wir dem Ansatz "bring your own Key"</p>
-    <p>GPT Keys können unter folgender Webseite erstellt werden</p>
+    <p>Der Benutzer verwendet somit seinen eigenen GPT-API Schlüssel </p>
+    <p>GPT Schlüssel können unter folgender Webseite erstellt werden</p>
     <p style="color:blue">https://openai.com/</p>
     <p>Achten Sie bei der Nutzung des Tools darauf, dass nicht alle Antworten der GPT gibt, der Warheit entsprechen</p>
    </div>

@@ -120,7 +120,6 @@ export default {
     }
   },
   methods: {
-   
     onModalConfirmed() {
       this.keyValid = false;
     },
